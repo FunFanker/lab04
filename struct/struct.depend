@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1557237087 source:c:\users\u211-06\desktop\lab04\struct\main.cpp
+	<iostream>
+	<cassert>
+
